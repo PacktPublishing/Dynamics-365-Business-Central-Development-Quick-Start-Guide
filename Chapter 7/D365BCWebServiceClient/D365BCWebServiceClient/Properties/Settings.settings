@@ -1,0 +1,234 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="D365BCWebServiceClient.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="D365BCWebServiceClient_BCWS_nativeInvoicingUnitsOfMeasure_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v1.0/194e87bd-73c6-43c6-95d7-1ca48985db5e/WS/CRONUS%20IT/Page/nativeInvoicingUnitsOfMeasure?tenant=msweua6461t47719790&amp;aid=FIN</Value>
+    </Setting>
+    <Setting Name="D365BCWebServiceClient_BCWS_purchaseDocumentLines_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v1.0/194e87bd-73c6-43c6-95d7-1ca48985db5e/WS/CRONUS%20IT/Page/purchaseDocumentLines?tenant=msweua6461t47719790&amp;aid=FIN</Value>
+    </Setting>
+    <Setting Name="D365BCWebServiceClient_BCWS_nativeInvoicingPaymentTerms_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v1.0/194e87bd-73c6-43c6-95d7-1ca48985db5e/WS/CRONUS%20IT/Page/nativeInvoicingPaymentTerms?tenant=msweua6461t47719790&amp;aid=FIN</Value>
+    </Setting>
+    <Setting Name="D365BCWebServiceClient_BCWS_InvoiceDocument_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v1.0/194e87bd-73c6-43c6-95d7-1ca48985db5e/WS/CRONUS%20IT/Page/InvoiceDocument?tenant=msweua6461t47719790&amp;aid=FIN</Value>
+    </Setting>
+    <Setting Name="D365BCWebServiceClient_BCWS_nativeInvoicingCustomers_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v1.0/194e87bd-73c6-43c6-95d7-1ca48985db5e/WS/CRONUS%20IT/Page/nativeInvoicingCustomers?tenant=msweua6461t47719790&amp;aid=FIN</Value>
+    </Setting>
+    <Setting Name="D365BCWebServiceClient_BCWS_nativeInvoicingSyncServicesSetting_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v1.0/194e87bd-73c6-43c6-95d7-1ca48985db5e/WS/CRONUS%20IT/Page/nativeInvoicingSyncServicesSetting?tenant=msweua6461t47719790&amp;aid=FIN</Value>
+    </Setting>
+    <Setting Name="D365BCWebServiceClient_BCWS_ExcelTemplateBalanceSheet_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v1.0/194e87bd-73c6-43c6-95d7-1ca48985db5e/WS/CRONUS%20IT/Page/ExcelTemplateBalanceSheet?tenant=msweua6461t47719790&amp;aid=FIN</Value>
+    </Setting>
+    <Setting Name="D365BCWebServiceClient_BCWS_Job_Planning_Lines_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v1.0/194e87bd-73c6-43c6-95d7-1ca48985db5e/WS/CRONUS%20IT/Page/Job_Planning_Lines?tenant=msweua6461t47719790&amp;aid=FIN</Value>
+    </Setting>
+    <Setting Name="D365BCWebServiceClient_BCWS_nativeInvoicingSalesInvoices_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v1.0/194e87bd-73c6-43c6-95d7-1ca48985db5e/WS/CRONUS%20IT/Page/nativeInvoicingSalesInvoices?tenant=msweua6461t47719790&amp;aid=FIN</Value>
+    </Setting>
+    <Setting Name="D365BCWebServiceClient_BCWS_Power_BI_Job_Profitability_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v1.0/194e87bd-73c6-43c6-95d7-1ca48985db5e/WS/CRONUS%20IT/Page/Power_BI_Job_Profitability?tenant=msweua6461t47719790&amp;aid=FIN</Value>
+    </Setting>
+    <Setting Name="D365BCWebServiceClient_BCWS_workflowItems_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v1.0/194e87bd-73c6-43c6-95d7-1ca48985db5e/WS/CRONUS%20IT/Page/workflowItems?tenant=msweua6461t47719790&amp;aid=FIN</Value>
+    </Setting>
+    <Setting Name="D365BCWebServiceClient_BCWS_nativeInvoicingPaymentMethods_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v1.0/194e87bd-73c6-43c6-95d7-1ca48985db5e/WS/CRONUS%20IT/Page/nativeInvoicingPaymentMethods?tenant=msweua6461t47719790&amp;aid=FIN</Value>
+    </Setting>
+    <Setting Name="D365BCWebServiceClient_BCWS_Customer_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v1.0/194e87bd-73c6-43c6-95d7-1ca48985db5e/WS/CRONUS%20IT/Page/Customer?tenant=msweua6461t47719790&amp;aid=FIN</Value>
+    </Setting>
+    <Setting Name="D365BCWebServiceClient_BCWS_SystemService" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v1.0/194e87bd-73c6-43c6-95d7-1ca48985db5e/WS/CRONUS%20IT/SystemService?tenant=msweua6461t47719790&amp;aid=FIN</Value>
+    </Setting>
+    <Setting Name="D365BCWebServiceClient_BCWS_AccountantPortalUserTasks_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v1.0/194e87bd-73c6-43c6-95d7-1ca48985db5e/WS/CRONUS%20IT/Page/AccountantPortalUserTasks?tenant=msweua6461t47719790&amp;aid=FIN</Value>
+    </Setting>
+    <Setting Name="D365BCWebServiceClient_BCWS_workflowGenJournalLines_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v1.0/194e87bd-73c6-43c6-95d7-1ca48985db5e/WS/CRONUS%20IT/Page/workflowGenJournalLines?tenant=msweua6461t47719790&amp;aid=FIN</Value>
+    </Setting>
+    <Setting Name="D365BCWebServiceClient_BCWS_salesDocuments_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v1.0/194e87bd-73c6-43c6-95d7-1ca48985db5e/WS/CRONUS%20IT/Page/salesDocuments?tenant=msweua6461t47719790&amp;aid=FIN</Value>
+    </Setting>
+    <Setting Name="D365BCWebServiceClient_BCWS_Piano_dei_conti_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v1.0/194e87bd-73c6-43c6-95d7-1ca48985db5e/WS/CRONUS%20IT/Page/Piano_dei_conti?tenant=msweua6461t47719790&amp;aid=FIN</Value>
+    </Setting>
+    <Setting Name="D365BCWebServiceClient_BCWS_nativeInvoicingAttachments_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v1.0/194e87bd-73c6-43c6-95d7-1ca48985db5e/WS/CRONUS%20IT/Page/nativeInvoicingAttachments?tenant=msweua6461t47719790&amp;aid=FIN</Value>
+    </Setting>
+    <Setting Name="D365BCWebServiceClient_BCWS_UserTaskSetComplete_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v1.0/194e87bd-73c6-43c6-95d7-1ca48985db5e/WS/CRONUS%20IT/Page/UserTaskSetComplete?tenant=msweua6461t47719790&amp;aid=FIN</Value>
+    </Setting>
+    <Setting Name="D365BCWebServiceClient_BCWS_nativeInvoicingEmailPreview_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v1.0/194e87bd-73c6-43c6-95d7-1ca48985db5e/WS/CRONUS%20IT/Page/nativeInvoicingEmailPreview?tenant=msweua6461t47719790&amp;aid=FIN</Value>
+    </Setting>
+    <Setting Name="D365BCWebServiceClient_BCWS_workflowSalesDocumentLines_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v1.0/194e87bd-73c6-43c6-95d7-1ca48985db5e/WS/CRONUS%20IT/Page/workflowSalesDocumentLines?tenant=msweua6461t47719790&amp;aid=FIN</Value>
+    </Setting>
+    <Setting Name="D365BCWebServiceClient_BCWS_nativeInvoicingLanguages_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v1.0/194e87bd-73c6-43c6-95d7-1ca48985db5e/WS/CRONUS%20IT/Page/nativeInvoicingLanguages?tenant=msweua6461t47719790&amp;aid=FIN</Value>
+    </Setting>
+    <Setting Name="D365BCWebServiceClient_BCWS_ExcelTemplateCashFlowStatement_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v1.0/194e87bd-73c6-43c6-95d7-1ca48985db5e/WS/CRONUS%20IT/Page/ExcelTemplateCashFlowStatement?tenant=msweua6461t47719790&amp;aid=FIN</Value>
+    </Setting>
+    <Setting Name="D365BCWebServiceClient_BCWS_Job_Task_Lines_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v1.0/194e87bd-73c6-43c6-95d7-1ca48985db5e/WS/CRONUS%20IT/Page/Job_Task_Lines?tenant=msweua6461t47719790&amp;aid=FIN</Value>
+    </Setting>
+    <Setting Name="D365BCWebServiceClient_BCWS_nativeInvoicingSalesInvoiceOverview_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v1.0/194e87bd-73c6-43c6-95d7-1ca48985db5e/WS/CRONUS%20IT/Page/nativeInvoicingSalesInvoiceOverview?tenant=msweua6461t47719790&amp;aid=FIN</Value>
+    </Setting>
+    <Setting Name="D365BCWebServiceClient_BCWS_Power_BI_WorkDate_Calc__Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v1.0/194e87bd-73c6-43c6-95d7-1ca48985db5e/WS/CRONUS%20IT/Page/Power_BI_WorkDate_Calc?tenant=msweua6461t47719790&amp;aid=FIN</Value>
+    </Setting>
+    <Setting Name="D365BCWebServiceClient_BCWS_nativeInvoicingTaxRates_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v1.0/194e87bd-73c6-43c6-95d7-1ca48985db5e/WS/CRONUS%20IT/Page/nativeInvoicingTaxRates?tenant=msweua6461t47719790&amp;aid=FIN</Value>
+    </Setting>
+    <Setting Name="D365BCWebServiceClient_BCWS_ExchangeServiceSetup" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v1.0/194e87bd-73c6-43c6-95d7-1ca48985db5e/WS/CRONUS%20IT/Codeunit/ExchangeServiceSetup?tenant=msweua6461t47719790&amp;aid=FIN</Value>
+    </Setting>
+    <Setting Name="D365BCWebServiceClient_BCWS_Power_BI_Sales_Pipeline_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v1.0/194e87bd-73c6-43c6-95d7-1ca48985db5e/WS/CRONUS%20IT/Page/Power_BI_Sales_Pipeline?tenant=msweua6461t47719790&amp;aid=FIN</Value>
+    </Setting>
+    <Setting Name="D365BCWebServiceClient_BCWS_ExcelTemplateAgedAccountsPayable_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v1.0/194e87bd-73c6-43c6-95d7-1ca48985db5e/WS/CRONUS%20IT/Page/ExcelTemplateAgedAccountsPayable?tenant=msweua6461t47719790&amp;aid=FIN</Value>
+    </Setting>
+    <Setting Name="D365BCWebServiceClient_BCWS_AccountantPortalFinanceCues_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v1.0/194e87bd-73c6-43c6-95d7-1ca48985db5e/WS/CRONUS%20IT/Page/AccountantPortalFinanceCues?tenant=msweua6461t47719790&amp;aid=FIN</Value>
+    </Setting>
+    <Setting Name="D365BCWebServiceClient_BCWS_purchaseDocuments_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v1.0/194e87bd-73c6-43c6-95d7-1ca48985db5e/WS/CRONUS%20IT/Page/purchaseDocuments?tenant=msweua6461t47719790&amp;aid=FIN</Value>
+    </Setting>
+    <Setting Name="D365BCWebServiceClient_BCWS_workflowPurchaseDocumentLines_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v1.0/194e87bd-73c6-43c6-95d7-1ca48985db5e/WS/CRONUS%20IT/Page/workflowPurchaseDocumentLines?tenant=msweua6461t47719790&amp;aid=FIN</Value>
+    </Setting>
+    <Setting Name="D365BCWebServiceClient_BCWS_AccountantPortalActivityCues_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v1.0/194e87bd-73c6-43c6-95d7-1ca48985db5e/WS/CRONUS%20IT/Page/AccountantPortalActivityCues?tenant=msweua6461t47719790&amp;aid=FIN</Value>
+    </Setting>
+    <Setting Name="D365BCWebServiceClient_BCWS_workflowWebhookSubscriptions_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v1.0/194e87bd-73c6-43c6-95d7-1ca48985db5e/WS/CRONUS%20IT/Page/workflowWebhookSubscriptions?tenant=msweua6461t47719790&amp;aid=FIN</Value>
+    </Setting>
+    <Setting Name="D365BCWebServiceClient_BCWS_C2Graph_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v1.0/194e87bd-73c6-43c6-95d7-1ca48985db5e/WS/CRONUS%20IT/Page/C2Graph?tenant=msweua6461t47719790&amp;aid=FIN</Value>
+    </Setting>
+    <Setting Name="D365BCWebServiceClient_BCWS_Power_BI_Aged_Inventory_Chart_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v1.0/194e87bd-73c6-43c6-95d7-1ca48985db5e/WS/CRONUS%20IT/Page/Power_BI_Aged_Inventory_Chart?tenant=msweua6461t47719790&amp;aid=FIN</Value>
+    </Setting>
+    <Setting Name="D365BCWebServiceClient_BCWS_CompanySetupService" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v1.0/194e87bd-73c6-43c6-95d7-1ca48985db5e/WS/CRONUS%20IT/Codeunit/CompanySetupService?tenant=msweua6461t47719790&amp;aid=FIN</Value>
+    </Setting>
+    <Setting Name="D365BCWebServiceClient_BCWS_WorkflowActionResponse" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v1.0/194e87bd-73c6-43c6-95d7-1ca48985db5e/WS/CRONUS%20IT/Codeunit/WorkflowActionResponse?tenant=msweua6461t47719790&amp;aid=FIN</Value>
+    </Setting>
+    <Setting Name="D365BCWebServiceClient_BCWS_workflowCustomers_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v1.0/194e87bd-73c6-43c6-95d7-1ca48985db5e/WS/CRONUS%20IT/Page/workflowCustomers?tenant=msweua6461t47719790&amp;aid=FIN</Value>
+    </Setting>
+    <Setting Name="D365BCWebServiceClient_BCWS_nativeInvoicingKPIs_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v1.0/194e87bd-73c6-43c6-95d7-1ca48985db5e/WS/CRONUS%20IT/Page/nativeInvoicingKPIs?tenant=msweua6461t47719790&amp;aid=FIN</Value>
+    </Setting>
+    <Setting Name="D365BCWebServiceClient_BCWS_nativeInvoicingVATSetup_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v1.0/194e87bd-73c6-43c6-95d7-1ca48985db5e/WS/CRONUS%20IT/Page/nativeInvoicingVATSetup?tenant=msweua6461t47719790&amp;aid=FIN</Value>
+    </Setting>
+    <Setting Name="D365BCWebServiceClient_BCWS_ExcelTemplateRetainedEarnings_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v1.0/194e87bd-73c6-43c6-95d7-1ca48985db5e/WS/CRONUS%20IT/Page/ExcelTemplateRetainedEarnings?tenant=msweua6461t47719790&amp;aid=FIN</Value>
+    </Setting>
+    <Setting Name="D365BCWebServiceClient_BCWS_nativeInvoicingItems_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v1.0/194e87bd-73c6-43c6-95d7-1ca48985db5e/WS/CRONUS%20IT/Page/nativeInvoicingItems?tenant=msweua6461t47719790&amp;aid=FIN</Value>
+    </Setting>
+    <Setting Name="D365BCWebServiceClient_BCWS_powerbifinance_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v1.0/194e87bd-73c6-43c6-95d7-1ca48985db5e/WS/CRONUS%20IT/Page/powerbifinance?tenant=msweua6461t47719790&amp;aid=FIN</Value>
+    </Setting>
+    <Setting Name="D365BCWebServiceClient_BCWS_EncryptedKeyValue" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v1.0/194e87bd-73c6-43c6-95d7-1ca48985db5e/WS/CRONUS%20IT/Codeunit/EncryptedKeyValue?tenant=msweua6461t47719790&amp;aid=FIN</Value>
+    </Setting>
+    <Setting Name="D365BCWebServiceClient_BCWS_workflowPurchaseDocuments_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v1.0/194e87bd-73c6-43c6-95d7-1ca48985db5e/WS/CRONUS%20IT/Page/workflowPurchaseDocuments?tenant=msweua6461t47719790&amp;aid=FIN</Value>
+    </Setting>
+    <Setting Name="D365BCWebServiceClient_BCWS_InvoiceReminder_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v1.0/194e87bd-73c6-43c6-95d7-1ca48985db5e/WS/CRONUS%20IT/Page/InvoiceReminder?tenant=msweua6461t47719790&amp;aid=FIN</Value>
+    </Setting>
+    <Setting Name="D365BCWebServiceClient_BCWS_nativeInvoicingSMTPMailSetup_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v1.0/194e87bd-73c6-43c6-95d7-1ca48985db5e/WS/CRONUS%20IT/Page/nativeInvoicingSMTPMailSetup?tenant=msweua6461t47719790&amp;aid=FIN</Value>
+    </Setting>
+    <Setting Name="D365BCWebServiceClient_BCWS_Power_BI_Aged_Acc__Payable_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v1.0/194e87bd-73c6-43c6-95d7-1ca48985db5e/WS/CRONUS%20IT/Page/Power_BI_Aged_Acc_Payable?tenant=msweua6461t47719790&amp;aid=FIN</Value>
+    </Setting>
+    <Setting Name="D365BCWebServiceClient_BCWS_nativeInvoicingTaxAreas_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v1.0/194e87bd-73c6-43c6-95d7-1ca48985db5e/WS/CRONUS%20IT/Page/nativeInvoicingTaxAreas?tenant=msweua6461t47719790&amp;aid=FIN</Value>
+    </Setting>
+    <Setting Name="D365BCWebServiceClient_BCWS_nativeInvoicingPDFs_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v1.0/194e87bd-73c6-43c6-95d7-1ca48985db5e/WS/CRONUS%20IT/Page/nativeInvoicingPDFs?tenant=msweua6461t47719790&amp;aid=FIN</Value>
+    </Setting>
+    <Setting Name="D365BCWebServiceClient_BCWS_nativeInvoicingCountryRegion_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v1.0/194e87bd-73c6-43c6-95d7-1ca48985db5e/WS/CRONUS%20IT/Page/nativeInvoicingCountryRegion?tenant=msweua6461t47719790&amp;aid=FIN</Value>
+    </Setting>
+    <Setting Name="D365BCWebServiceClient_BCWS_nativeInvoicingQBOSyncAuth_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v1.0/194e87bd-73c6-43c6-95d7-1ca48985db5e/WS/CRONUS%20IT/Page/nativeInvoicingQBOSyncAuth?tenant=msweua6461t47719790&amp;aid=FIN</Value>
+    </Setting>
+    <Setting Name="D365BCWebServiceClient_BCWS_nativeInvoicingTestMail_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v1.0/194e87bd-73c6-43c6-95d7-1ca48985db5e/WS/CRONUS%20IT/Page/nativeInvoicingTestMail?tenant=msweua6461t47719790&amp;aid=FIN</Value>
+    </Setting>
+    <Setting Name="D365BCWebServiceClient_BCWS_Power_BI_Report_Labels_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v1.0/194e87bd-73c6-43c6-95d7-1ca48985db5e/WS/CRONUS%20IT/Page/Power_BI_Report_Labels?tenant=msweua6461t47719790&amp;aid=FIN</Value>
+    </Setting>
+    <Setting Name="D365BCWebServiceClient_BCWS_workflowSalesDocuments_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v1.0/194e87bd-73c6-43c6-95d7-1ca48985db5e/WS/CRONUS%20IT/Page/workflowSalesDocuments?tenant=msweua6461t47719790&amp;aid=FIN</Value>
+    </Setting>
+    <Setting Name="D365BCWebServiceClient_BCWS_nativeInvoicingContacts_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v1.0/194e87bd-73c6-43c6-95d7-1ca48985db5e/WS/CRONUS%20IT/Page/nativeInvoicingContacts?tenant=msweua6461t47719790&amp;aid=FIN</Value>
+    </Setting>
+    <Setting Name="D365BCWebServiceClient_BCWS_nativeInvoicingTaxGroups_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v1.0/194e87bd-73c6-43c6-95d7-1ca48985db5e/WS/CRONUS%20IT/Page/nativeInvoicingTaxGroups?tenant=msweua6461t47719790&amp;aid=FIN</Value>
+    </Setting>
+    <Setting Name="D365BCWebServiceClient_BCWS_Power_BI_Top_5_Opportunities_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v1.0/194e87bd-73c6-43c6-95d7-1ca48985db5e/WS/CRONUS%20IT/Page/Power_BI_Top_5_Opportunities?tenant=msweua6461t47719790&amp;aid=FIN</Value>
+    </Setting>
+    <Setting Name="D365BCWebServiceClient_BCWS_salesDocumentLines_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v1.0/194e87bd-73c6-43c6-95d7-1ca48985db5e/WS/CRONUS%20IT/Page/salesDocumentLines?tenant=msweua6461t47719790&amp;aid=FIN</Value>
+    </Setting>
+    <Setting Name="D365BCWebServiceClient_BCWS_nativeInvoicingGeneralSettings_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v1.0/194e87bd-73c6-43c6-95d7-1ca48985db5e/WS/CRONUS%20IT/Page/nativeInvoicingGeneralSettings?tenant=msweua6461t47719790&amp;aid=FIN</Value>
+    </Setting>
+    <Setting Name="D365BCWebServiceClient_BCWS_nativeInvoicingSalesQuotes_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v1.0/194e87bd-73c6-43c6-95d7-1ca48985db5e/WS/CRONUS%20IT/Page/nativeInvoicingSalesQuotes?tenant=msweua6461t47719790&amp;aid=FIN</Value>
+    </Setting>
+    <Setting Name="D365BCWebServiceClient_BCWS_ExcelTemplateViewCompanyInformation_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v1.0/194e87bd-73c6-43c6-95d7-1ca48985db5e/WS/CRONUS%20IT/Page/ExcelTemplateViewCompanyInformation?tenant=msweua6461t47719790&amp;aid=FIN</Value>
+    </Setting>
+    <Setting Name="D365BCWebServiceClient_BCWS_nativeInvoicingEmailSetting_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v1.0/194e87bd-73c6-43c6-95d7-1ca48985db5e/WS/CRONUS%20IT/Page/nativeInvoicingEmailSetting?tenant=msweua6461t47719790&amp;aid=FIN</Value>
+    </Setting>
+    <Setting Name="D365BCWebServiceClient_BCWS_nativeInvoicingExportInvoices_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v1.0/194e87bd-73c6-43c6-95d7-1ca48985db5e/WS/CRONUS%20IT/Page/nativeInvoicingExportInvoices?tenant=msweua6461t47719790&amp;aid=FIN</Value>
+    </Setting>
+    <Setting Name="D365BCWebServiceClient_BCWS_workflowGenJournalBatches_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v1.0/194e87bd-73c6-43c6-95d7-1ca48985db5e/WS/CRONUS%20IT/Page/workflowGenJournalBatches?tenant=msweua6461t47719790&amp;aid=FIN</Value>
+    </Setting>
+    <Setting Name="D365BCWebServiceClient_BCWS_Power_BI_Job_Act__v__Budg__Price_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v1.0/194e87bd-73c6-43c6-95d7-1ca48985db5e/WS/CRONUS%20IT/Page/Power_BI_Job_Act_v_Budg_Price?tenant=msweua6461t47719790&amp;aid=FIN</Value>
+    </Setting>
+    <Setting Name="D365BCWebServiceClient_BCWS_workflowVendors_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v1.0/194e87bd-73c6-43c6-95d7-1ca48985db5e/WS/CRONUS%20IT/Page/workflowVendors?tenant=msweua6461t47719790&amp;aid=FIN</Value>
+    </Setting>
+    <Setting Name="D365BCWebServiceClient_BCWS_ExcelTemplateIncomeStatement_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v1.0/194e87bd-73c6-43c6-95d7-1ca48985db5e/WS/CRONUS%20IT/Page/ExcelTemplateIncomeStatement?tenant=msweua6461t47719790&amp;aid=FIN</Value>
+    </Setting>
+    <Setting Name="D365BCWebServiceClient_BCWS_ExcelTemplateTrialBalance_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v1.0/194e87bd-73c6-43c6-95d7-1ca48985db5e/WS/CRONUS%20IT/Page/ExcelTemplateTrialBalance?tenant=msweua6461t47719790&amp;aid=FIN</Value>
+    </Setting>
+    <Setting Name="D365BCWebServiceClient_BCWS_ExcelTemplateAgedAccountsReceivable_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v1.0/194e87bd-73c6-43c6-95d7-1ca48985db5e/WS/CRONUS%20IT/Page/ExcelTemplateAgedAccountsReceivable?tenant=msweua6461t47719790&amp;aid=FIN</Value>
+    </Setting>
+    <Setting Name="D365BCWebServiceClient_BCWS_Power_BI_Aged_Acc__Receivable_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v1.0/194e87bd-73c6-43c6-95d7-1ca48985db5e/WS/CRONUS%20IT/Page/Power_BI_Aged_Acc_Receivable?tenant=msweua6461t47719790&amp;aid=FIN</Value>
+    </Setting>
+    <Setting Name="D365BCWebServiceClient_BCWS_nativeInvoicingSalesTaxSetup_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v1.0/194e87bd-73c6-43c6-95d7-1ca48985db5e/WS/CRONUS%20IT/Page/nativeInvoicingSalesTaxSetup?tenant=msweua6461t47719790&amp;aid=FIN</Value>
+    </Setting>
+    <Setting Name="D365BCWebServiceClient_BCWS_Power_BI_Job_Act__v__Budg__Cost_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v1.0/194e87bd-73c6-43c6-95d7-1ca48985db5e/WS/CRONUS%20IT/Page/Power_BI_Job_Act_v_Budg_Cost?tenant=msweua6461t47719790&amp;aid=FIN</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

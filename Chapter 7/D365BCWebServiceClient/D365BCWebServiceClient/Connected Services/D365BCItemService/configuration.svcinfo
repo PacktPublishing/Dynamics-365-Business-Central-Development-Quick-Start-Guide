@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<configurationSnapshot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="urn:schemas-microsoft-com:xml-wcfconfigurationsnapshot">
+  <behaviors />
+  <bindings>
+    <binding digest="System.ServiceModel.Configuration.BasicHttpBindingElement, System.ServiceModel, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089:&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&lt;Data name=&quot;Item_Binding&quot;&gt;&lt;security mode=&quot;Transport&quot; /&gt;&lt;/Data&gt;" bindingType="basicHttpBinding" name="Item_Binding" />
+    <binding digest="System.ServiceModel.Configuration.BasicHttpBindingElement, System.ServiceModel, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089:&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&lt;Data name=&quot;Item_Binding1&quot; /&gt;" bindingType="basicHttpBinding" name="Item_Binding1" />
+  </bindings>
+  <endpoints>
+    <endpoint normalizedDigest="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&lt;Data address=&quot;https://api.businesscentral.dynamics.com/v1.0/194e87bd-73c6-43c6-95d7-1ca48985db5e/WS/CRONUS%20IT/Page/Item?tenant=msweua6461t47719790&amp;amp;aid=FIN&quot; binding=&quot;basicHttpBinding&quot; bindingConfiguration=&quot;Item_Binding&quot; contract=&quot;D365BCItemService.Item_Port&quot; name=&quot;Item_Port&quot; /&gt;" digest="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&lt;Data address=&quot;https://api.businesscentral.dynamics.com/v1.0/194e87bd-73c6-43c6-95d7-1ca48985db5e/WS/CRONUS%20IT/Page/Item?tenant=msweua6461t47719790&amp;amp;aid=FIN&quot; binding=&quot;basicHttpBinding&quot; bindingConfiguration=&quot;Item_Binding&quot; contract=&quot;D365BCItemService.Item_Port&quot; name=&quot;Item_Port&quot; /&gt;" contractName="D365BCItemService.Item_Port" name="Item_Port" />
+  </endpoints>
+</configurationSnapshot>

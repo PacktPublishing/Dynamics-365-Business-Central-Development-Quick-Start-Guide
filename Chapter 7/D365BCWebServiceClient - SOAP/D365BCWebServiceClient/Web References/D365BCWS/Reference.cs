@@ -57,7 +57,7 @@ namespace D365BCWebServiceClient.D365BCWS {
         
         /// <remarks/>
         public Customer_Service() {
-            this.Url = global::D365BCWebServiceClient.Properties.Settings.Default.D365BCWebServiceClient_BCWS_Customer_Service;
+            this.Url = global::D365BCWebServiceClient.Properties.Settings.Default.D365BCWebServiceClient_D365BCWS_Customer_Service;
             if ((this.IsLocalFileSystemWebService(this.Url) == true)) {
                 this.UseDefaultCredentials = true;
                 this.useDefaultCredentialsSetExplicitly = false;
@@ -2213,6 +2213,9 @@ namespace D365BCWebServiceClient.D365BCWS {
     public enum Blocked {
         
         /// <remarks/>
+        _blank_,
+        
+        /// <remarks/>
         Ship,
         
         /// <remarks/>
@@ -2227,6 +2230,9 @@ namespace D365BCWebServiceClient.D365BCWS {
     [System.SerializableAttribute()]
     [System.Xml.Serialization.XmlTypeAttribute(Namespace="urn:microsoft-dynamics-schemas/page/customer")]
     public enum Tax_Representative_Type {
+        
+        /// <remarks/>
+        _blank_,
         
         /// <remarks/>
         Customer,
@@ -2279,6 +2285,9 @@ namespace D365BCWebServiceClient.D365BCWS {
     [System.SerializableAttribute()]
     [System.Xml.Serialization.XmlTypeAttribute(Namespace="urn:microsoft-dynamics-schemas/page/customer")]
     public enum Partner_Type {
+        
+        /// <remarks/>
+        _blank_,
         
         /// <remarks/>
         Company,
@@ -3028,6 +3037,9 @@ namespace D365BCWebServiceClient.D365BCWS {
     [System.SerializableAttribute()]
     [System.Xml.Serialization.XmlTypeAttribute(Namespace="urn:microsoft-dynamics-schemas/page/customer")]
     public enum Line_Type {
+        
+        /// <remarks/>
+        _blank_,
         
         /// <remarks/>
         Sales_Line_Discount,

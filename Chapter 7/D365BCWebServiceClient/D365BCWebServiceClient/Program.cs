@@ -14,7 +14,7 @@ namespace D365BCWebServiceClient
     {
         static void Main(string[] args)
         {
-            string WSKey = "YOURWEBSERVICEACCESSKEY";
+            string WSKey = "WOpmr3C4RwHfRfDacAa8tHlrMwbVBc+YKJuyo5OXNls=";
             string WSURL = "https://api.businesscentral.dynamics.com/v1.0/194e87bd-73c6-43c6-95d7-1ca48985db5e/WS/CRONUS%20IT/Page/Item";
 
             //Create an instance of the D365BC SOAP WS     
@@ -23,7 +23,7 @@ namespace D365BCWebServiceClient
             binding.Security.Transport.ClientCredentialType = HttpClientCredentialType.Basic;
             
             D365BCItemService.Item_PortClient ws = new Item_PortClient(binding, new EndpointAddress(WSURL));            
-            ws.ClientCredentials.UserName.UserName = "YOURUSERNAME";
+            ws.ClientCredentials.UserName.UserName = "sdemiliani";
             ws.ClientCredentials.UserName.Password = WSKey;            
 
             //Creating the filters
@@ -31,7 +31,12 @@ namespace D365BCWebServiceClient
             Item_Filter filter = new Item_Filter();
             filter.Field = Item_Fields.No;
             filter.Criteria = "1900-S";
-            filters.Add(filter);  
+            filters.Add(filter);
+
+            
+            
+            //Item[] items = ws.ReadMultiple(null, "", 1);
+
             try
             {
                 foreach (Item item in ws.ReadMultiple(filters.ToArray(), "", 0))

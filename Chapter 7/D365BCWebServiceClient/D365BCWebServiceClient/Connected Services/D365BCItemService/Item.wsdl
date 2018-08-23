@@ -77,6 +77,7 @@
       </xsd:simpleType>
       <xsd:simpleType name="Reordering_Policy">
         <xsd:restriction base="xsd:string">
+          <xsd:enumeration value="_blank_" />
           <xsd:enumeration value="Fixed_Reorder_Qty" />
           <xsd:enumeration value="Maximum_Qty" />
           <xsd:enumeration value="Order" />

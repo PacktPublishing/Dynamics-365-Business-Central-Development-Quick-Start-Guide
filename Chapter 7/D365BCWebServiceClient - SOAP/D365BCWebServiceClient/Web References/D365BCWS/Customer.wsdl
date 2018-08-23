@@ -4,6 +4,7 @@
     <xsd:schema elementFormDefault="qualified" targetNamespace="urn:microsoft-dynamics-schemas/page/customer" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
       <xsd:simpleType name="Blocked">
         <xsd:restriction base="xsd:string">
+          <xsd:enumeration value="_blank_" />
           <xsd:enumeration value="Ship" />
           <xsd:enumeration value="Invoice" />
           <xsd:enumeration value="All" />
@@ -11,6 +12,7 @@
       </xsd:simpleType>
       <xsd:simpleType name="Tax_Representative_Type">
         <xsd:restriction base="xsd:string">
+          <xsd:enumeration value="_blank_" />
           <xsd:enumeration value="Customer" />
           <xsd:enumeration value="Contact" />
         </xsd:restriction>
@@ -35,6 +37,7 @@
       </xsd:simpleType>
       <xsd:simpleType name="Partner_Type">
         <xsd:restriction base="xsd:string">
+          <xsd:enumeration value="_blank_" />
           <xsd:enumeration value="Company" />
           <xsd:enumeration value="Person" />
         </xsd:restriction>
@@ -64,6 +67,7 @@
       </xsd:complexType>
       <xsd:simpleType name="Line_Type">
         <xsd:restriction base="xsd:string">
+          <xsd:enumeration value="_blank_" />
           <xsd:enumeration value="Sales_Line_Discount" />
           <xsd:enumeration value="Sales_Price" />
         </xsd:restriction>

@@ -25,39 +25,41 @@ namespace D365BCWebServiceClient
             ws.Credentials = myCredentials;
 
             //Read Customers
-            //List<Customer_Filter> filters = new List<Customer_Filter>();
-            //Customer_Filter filter = new Customer_Filter();
-            //filter.Field = Customer_Fields.Country_Region_Code;
-            //filter.Criteria = "IT";
-            //filters.Add(filter);
-            //try
-            //{
-            //    foreach (Customer customer in ws.ReadMultiple(filters.ToArray(), "", 0))
-            //    {
-            //        Console.WriteLine("No: {0} Name: {1}", customer.No, customer.Name);
-            //    }
-            //}
-            //catch (Exception ex)
-            //{
-            //    Console.WriteLine("Error retrieving Customers: {0} InnerException: {1}", ex.Message, ex.InnerException);
-            //}
-
-            //Create the Customer record
-            Customer customer = new Customer();
-            customer.Name = "SOAP Customer";
-            customer.Address = "Viale Kennedy 87, Novara";
-            customer.Country_Region_Code = "IT";
-            customer.Blocked = Blocked.All;
+            List<Customer_Filter> filters = new List<Customer_Filter>();
+            Customer_Filter filter = new Customer_Filter();
+            filter.Field = Customer_Fields.Country_Region_Code;
+            filter.Criteria = "IT";
+            filters.Add(filter);
             try
             {
-                //Start the Create method
-                ws.Create(ref customer);
-                Console.WriteLine("Customer {0} created successfully.", customer.No);
+                foreach (Customer customer in ws.ReadMultiple(filters.ToArray(), "", 0))
+                {
+                    Console.WriteLine("No: {0} Name: {1}", customer.No, customer.Name);
+                }
+
+                Console.ReadKey();
             }
             catch (Exception ex)
             {
-                Console.WriteLine("Customer creation error: {0} InnerException: {1}", ex.Message, ex.InnerException);
+                Console.WriteLine("Error retrieving Customers: {0} InnerException: {1}", ex.Message, ex.InnerException);
             }
+
+            //Create the Customer record
+            //Customer customer = new Customer();
+            //customer.Name = "SOAP Customer 1";
+            //customer.Address = "Viale Kennedy 87, Novara";
+            //customer.Country_Region_Code = "IT";
+            //customer.Blocked = Blocked.Invoice;
+            //try
+            //{
+            //    //Start the Create method
+            //    ws.Create(ref customer);
+            //    Console.WriteLine("Customer {0} created successfully.", customer.No);
+            //}
+            //catch (Exception ex)
+            //{
+            //    Console.WriteLine("Customer creation error: {0} InnerException: {1}", ex.Message, ex.InnerException);
+            //}
         }
     }
 }

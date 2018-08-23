@@ -12,3 +12,10 @@ C:\Users\stefano\OneDrive\Packt\D365BC Quickstart (B11277)\Code\D365BCWebService
 C:\Users\stefano\OneDrive\Packt\D365BC Quickstart (B11277)\Code\D365BCWebServiceClient - Item\D365BCWebServiceClient\obj\Debug\D365BCWebServiceClient.csproj.CoreCompileInputs.cache
 C:\Users\stefano\OneDrive\Packt\D365BC Quickstart (B11277)\Code\D365BCWebServiceClient - Item\D365BCWebServiceClient\obj\Debug\D365BCWebServiceClient.exe
 C:\Users\stefano\OneDrive\Packt\D365BC Quickstart (B11277)\Code\D365BCWebServiceClient - Item\D365BCWebServiceClient\obj\Debug\D365BCWebServiceClient.pdb
+C:\Users\StefanoDemiliani\OneDrive\Packt\D365BC Quickstart Development (B11277)\Code\D365BCWebServiceClient - Item\D365BCWebServiceClient\bin\Debug\D365BCWebServiceClient.exe.config
+C:\Users\StefanoDemiliani\OneDrive\Packt\D365BC Quickstart Development (B11277)\Code\D365BCWebServiceClient - Item\D365BCWebServiceClient\bin\Debug\D365BCWebServiceClient.exe
+C:\Users\StefanoDemiliani\OneDrive\Packt\D365BC Quickstart Development (B11277)\Code\D365BCWebServiceClient - Item\D365BCWebServiceClient\bin\Debug\D365BCWebServiceClient.pdb
+C:\Users\StefanoDemiliani\OneDrive\Packt\D365BC Quickstart Development (B11277)\Code\D365BCWebServiceClient - Item\D365BCWebServiceClient\obj\Debug\D365BCWebServiceClient.csprojAssemblyReference.cache
+C:\Users\StefanoDemiliani\OneDrive\Packt\D365BC Quickstart Development (B11277)\Code\D365BCWebServiceClient - Item\D365BCWebServiceClient\obj\Debug\D365BCWebServiceClient.csproj.CoreCompileInputs.cache
+C:\Users\StefanoDemiliani\OneDrive\Packt\D365BC Quickstart Development (B11277)\Code\D365BCWebServiceClient - Item\D365BCWebServiceClient\obj\Debug\D365BCWebServiceClient.exe
+C:\Users\StefanoDemiliani\OneDrive\Packt\D365BC Quickstart Development (B11277)\Code\D365BCWebServiceClient - Item\D365BCWebServiceClient\obj\Debug\D365BCWebServiceClient.pdb

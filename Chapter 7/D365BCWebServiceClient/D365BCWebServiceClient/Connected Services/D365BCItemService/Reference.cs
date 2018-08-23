@@ -2642,6 +2642,9 @@ namespace D365BCWebServiceClient.D365BCItemService {
     public enum Reordering_Policy {
         
         /// <remarks/>
+        _blank_,
+        
+        /// <remarks/>
         Fixed_Reorder_Qty,
         
         /// <remarks/>

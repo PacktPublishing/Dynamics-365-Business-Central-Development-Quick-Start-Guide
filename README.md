@@ -25,15 +25,11 @@ This book is for Microsoft Dynamics 365 Business Central solution developers and
  With the following software and hardware list you can run all code files present in the book (Chapter 1-7).
  
  ### Software and Hardware List
- | Chapter | Software required                       | OS required  |
-| -------- | ----------------------------------------| -------------|
-| 1        | Visual Studio Code                      |    Windows   |
-| 2        | Visual Studio Code                      |    Windows   |
-| 3        | Visual Studio Code                      |    Windows   |
-| 4        | Visual Studio Code, Docker for Windows  |    Windows   |
-| 5        | Visual Studio Code, Docker for Windows  |    Windows   |
-| 6        | Visual Studio Code, Docker for Windows  |    Windows   |
-| 7        | Visual Studio Code, Docker for Windows  |    Windows   |
+| Chapter | Software required                       | OS required  |
+| --------| ----------------------------------------| -------------|
+| 1-3     | Visual Studio Code                      |    Windows   |
+| 4-7     | Visual Studio Code, Docker for Windows  |    Windows   |
+
  We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https://www.packtpub.com/sites/default/files/downloads/Dynamics365BusinessCentralDevelopmentQuickStartGuide_ColorImages.pdf).
  
  ### Related products <Other books you may enjoy>

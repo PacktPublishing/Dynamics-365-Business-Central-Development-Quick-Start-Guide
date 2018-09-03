@@ -2,8 +2,7 @@
 Dynamics 365 Business Central Development Quick Start Guide, published by Packt
  <a href="https://www.packtpub.com/business/dynamics-365-business-central-development-quick-start-guide?utm_source=github&utm_medium=repository&utm_campaign=9781789347463"><img src="https://dz13w8afd47il.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/B11277.png" alt="Dynamics 365 Business Central Development Quick Start Guide" height="256px" align="right"></a>
  This is the code repository for [Dynamics 365 Business Central Development Quick Start Guide](https://www.packtpub.com/business/dynamics-365-business-central-development-quick-start-guide?utm_source=github&utm_medium=repository&utm_campaign=9781789347463), published by Packt.
- **Modern development techniques for Dynamics 365 Business Central**
- 
+ **Modern development techniques for Dynamics 365 Business Central** 
  ## What is this book about?
 Microsoft Dynamics 365 Business Central is the new SaaS ERP proposition from Microsoft. This latest version has many exciting features guaranteed to make your life easier. This book is an ideal guide to Dynamics 365 Business Central and will help you get started with implementing and designing solutions for real-world scenarios.
  This book covers the following exciting features: <First 5 What you'll learn points>
@@ -15,14 +14,12 @@ Microsoft Dynamics 365 Business Central is the new SaaS ERP proposition from Mic
  If you feel this book is for you, get your [copy](https://www.amazon.com/dp/1789347467) today!
  <a href="https://www.packtpub.com/?utm_source=github&utm_medium=banner&utm_campaign=GitHubBanner"><img src="https://raw.githubusercontent.com/PacktPublishing/GitHub/master/GitHub.png" 
 alt="https://www.packtpub.com/" border="5" /></a>
-
  ## Instructions and Navigations
 All of the code is organized into folders. For example, Chapter02.
  The code will look like the following:
 ```
 finsql.exe Command=generatesymbolreference, Database="Demo Database NAV (11-0)", ServerName=NAVSRV
 ```
-
  **Following is what you need for this book:**
 This book is for Microsoft Dynamics 365 Business Central solution developers and architects that needs to implement solutions based on the Microsoft's ERP (on-premise and SaaS).
  With the following software and hardware list you can run all code files present in the book (Chapter 1-7).

@@ -1,3 +1,7 @@
+## [Get this title for $10 on Packt's Spring Sale](https://www.packt.com/B11277?utm_source=github&utm_medium=packt-github-repo&utm_campaign=spring_10_dollar_2022)
+-----
+For a limited period, all eBooks and Videos are only $10. All the practical content you need \- by developers, for developers
+
 # Dynamics-365-Business-Central-Development-Quick-Start-Guide
 Dynamics 365 Business Central Development Quick Start Guide, published by Packt
  <a href="https://www.packtpub.com/business/dynamics-365-business-central-development-quick-start-guide?utm_source=github&utm_medium=repository&utm_campaign=9781789347463"><img src="https://dz13w8afd47il.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/B11277.png" alt="Dynamics 365 Business Central Development Quick Start Guide" height="256px" align="right"></a>
